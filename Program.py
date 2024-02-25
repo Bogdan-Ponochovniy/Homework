@@ -9,5 +9,5 @@ print("Сума значень:", sum_numbers)
 count_numbers = len(numbers)
 print("Кількість значень:", count_numbers)
 
-average_number = sum_numbers / count_numbers
-print("Середнє значення:", int(average_number))
+av_number = sum_numbers / count_numbers
+print("Середнє значення:", int(av_number))
